@@ -153,10 +153,3 @@ Click on the project links above to explore each case study in detail.
 **E-mail**  
 📧 van_fabri@yahoo.com.br
 
----
-
-# ⚠️ Confidentiality Notice
-
-To protect confidential information and intellectual property, the complete source code, proprietary business rules, and organization-specific details have been omitted from this repository.
-
-This portfolio showcases the solution architecture, technologies employed, technical challenges solved, and measurable business outcomes obtained throughout each project.
