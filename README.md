@@ -81,7 +81,7 @@ Power BI • DAX • Data Modeling
 RPA • Power Automate • SAP GUI Scripting • Selenium
 
 ### Databases
-Oracle • Excel
+Oracle • Databricks • Excel
 
 ### Development & Collaboration
 Git • GitHub • Jupyter Notebook
