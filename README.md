@@ -1,4 +1,5 @@
 # 👋 Vanessa Fabri
+[🇧🇷 Português](README.pt-BR.md)
 
 **Data Analyst | Process Automation | Business Intelligence | Machine Learning**
 
@@ -28,7 +29,7 @@ My primary goal is to transform operational processes into scalable, data-driven
 
 # 📂 Featured Projects
 
-## 🤖 RPA – Operational Process Automation
+## 🤖 Remote Self-Consumption Registration RPA
 
 End-to-end automation developed in Python to automate a high-volume operational workflow involving data extraction, web scraping, system integration, reporting, and automated notifications.
 
@@ -45,45 +46,12 @@ Python • Pandas • SAP GUI Scripting • Selenium • Power BI • Outlook Au
 
 ---
 
-## 📊 Contract Management Dashboard
+## 📈 Extracting and Visualizing Stock Data with Python
 
-Interactive dashboard designed to monitor contract balances, adjustments, expiration dates, and operational indicators through automated data integration.
-
-**Tech Stack**  
-Power BI • Power Automate • SAP ERP • Python
-
-🔗 **View Project**
-
----
-
-## 🧠 Budget Forecasting with Machine Learning
-
-Predictive model developed to estimate future CAPEX and OPEX expenditures using historical records, inflation indexes, and contract information.
+Financial data analysis project focused on collecting, cleaning, and visualizing stock market and revenue data using APIs and web scraping.
 
 **Tech Stack**  
-Python • Pandas • Scikit-Learn • Matplotlib
-
-🔗 **View Project**
-
----
-
-## ⚙️ SAP Reporting Automation
-
-Automation scripts developed to extract, consolidate, and organize SAP reports, reducing manual effort and improving data availability.
-
-**Tech Stack**  
-Python • SAP GUI Scripting • OpenPyXL
-
-🔗 **View Project**
-
----
-
-## 📈 Exploratory Data Analysis Projects
-
-Collection of exploratory analyses and data storytelling projects using public datasets.
-
-**Tech Stack**  
-Python • Pandas • Seaborn • Jupyter Notebook
+Python • Pandas • yFinance • BeautifulSoup • Matplotlib
 
 🔗 **View Project**
 
@@ -93,10 +61,8 @@ Python • Pandas • Seaborn • Jupyter Notebook
 
 Projects currently under development:
 
-- AI-Powered Financial Assistant
+- Budget Forecasting with Machine Learning
 - Predictive Analytics for Operational Performance
-- Advanced Power BI Executive Dashboards
-- Generative AI Applications for Business Processes
 
 ---
 
