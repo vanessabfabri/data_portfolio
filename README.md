@@ -57,6 +57,17 @@ Python • Pandas • yFinance • BeautifulSoup • Matplotlib
 
 ---
 
+## 🎮 Executive Sales Dashboard – Xbox Game Pass
+
+End-to-end BI project focused on automating the ETL process and generating an executive Excel dashboard for sales analysis and KPI monitoring.
+
+**Tech Stack**  
+Python • Pandas • XlsxWriter • Excel • Google Colab
+
+🔗 **View Project**
+
+---
+
 # 🔬 In Progress
 
 Projects currently under development:
