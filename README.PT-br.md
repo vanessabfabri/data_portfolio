@@ -130,11 +130,3 @@ Clique nos links dos projetos acima para explorar cada estudo de caso em detalhe
 
 **E-mail**  
 📧 van_fabri@yahoo.com.br
-
----
-
-# ⚠️ Aviso de Confidencialidade
-
-Para proteger informações confidenciais e propriedade intelectual, o código-fonte completo, regras de negócio proprietárias e detalhes específicos das organizações envolvidas não são disponibilizados publicamente.
-
-Este portfólio tem como objetivo apresentar a arquitetura das soluções, as tecnologias utilizadas, os desafios técnicos enfrentados e os resultados alcançados em cada projeto.
