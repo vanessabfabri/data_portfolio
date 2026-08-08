@@ -53,7 +53,7 @@ Financial data analysis project focused on collecting, cleaning, and visualizing
 **Tech Stack**  
 Python • Pandas • yFinance • BeautifulSoup • Matplotlib
 
-🔗 **View Project**]
+🔗 [**View Project**](https://github.com/vanessabfabri/extracting-visualizing-stock-data)
 
 ---
 
@@ -64,7 +64,7 @@ End-to-end BI project focused on automating the ETL process and generating an ex
 **Tech Stack**  
 Python • Pandas • XlsxWriter • Excel • Google Colab
 
-🔗 **View Project**
+🔗 [**View Project**](https://github.com/vanessabfabri/xbox-game-pass-sales-dashboard)
 
 ---
 
