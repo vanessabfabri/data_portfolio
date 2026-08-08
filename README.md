@@ -42,7 +42,7 @@ End-to-end automation developed in Python to automate a high-volume operational 
 **Tech Stack**  
 Python • Pandas • SAP GUI Scripting • Selenium • Power BI • Outlook Automation
 
-🔗 [**View Project**]([rpa-remote-self-consumption-registration](https://github.com/vanessabfabri/rpa-remote-self-consumption-registration/tree/main))
+🔗 [**View Project**](https://github.com/vanessabfabri/rpa-remote-self-consumption-registration/tree/main)
 
 ---
 
