@@ -42,7 +42,7 @@ End-to-end automation developed in Python to automate a high-volume operational 
 **Tech Stack**  
 Python • Pandas • SAP GUI Scripting • Selenium • Power BI • Outlook Automation
 
-🔗 **View Project**
+🔗 [**View Project**](rpa-remote-self-consumption-registration)
 
 ---
 
@@ -53,7 +53,7 @@ Financial data analysis project focused on collecting, cleaning, and visualizing
 **Tech Stack**  
 Python • Pandas • yFinance • BeautifulSoup • Matplotlib
 
-🔗 **View Project**
+🔗 **View Project**]
 
 ---
 
